@@ -1,5 +1,5 @@
 {
-    "name" : "axn/laravel-glide",
+    "name" : "melonsmasher/laravel-glide",
     "description" : "league/glide wrapper for Laravel 5.1+",
     "homepage" : "https://github.com/AXN-Informatique/laravel-glide",
     "support" : {
